@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  wm3_pdf_srv:
+    image: asia.gcr.io/majormap-a1775/waymaker-pdf:latest
+    build:
+      context: .
+    container_name: wm3_pdf_srv
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    working_dir: /app

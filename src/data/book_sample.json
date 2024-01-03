@@ -1,0 +1,157 @@
+{
+    "id": 143,
+    "created": "2023-10-04T15:07:59.382543+09:00",
+    "updated": "2023-10-04T15:07:59.382543+09:00",
+    "book_id": 6141,
+    "consultation_id": 91,
+    "order": 0,
+    "book_title": "의사, 인간을 어루만지다 : 예일대 의대 교수가 말하는 진정한 치유자의 세계",
+    "book_author": "셔윈 B. 눌랜드 지음 ;조현욱 옮김",
+    "book_publisher": null,
+    "motivation": null,
+    "impressive_content": null,
+    "impressive_reason": null,
+    "learned": null,
+    "plan": null,
+    "consultation": {
+      "id": 91,
+      "created": "2023-04-14T14:46:46.856291+09:00",
+      "updated": "2023-10-04T15:10:41.317467+09:00",
+      "is_done": false,
+      "student_id": 18,
+      "institute_id": 9,
+      "year": 2023,
+      "term": 1,
+      "school_grade": 0,
+      "school_class": 0,
+      "school_class_num": 0,
+      "job_major_preference_done": "2023-10-04T15:03:51.272884+09:00",
+      "job_major_preference_summary": "CA",
+      "major_search_report_done": "2023-10-04T15:05:51.214183+09:00",
+      "job_search_report_done": "2023-10-04T15:06:10.320965+09:00",
+      "learning_ability_assessment_done": null,
+      "roadmap_major_selection_done": "2023-10-04T15:07:04.558771+09:00",
+      "roadmap_major_selection_summary": "가톨릭대학교 의예과",
+      "roadmap_keyword_selection_done": "2023-10-04T15:09:04.273795+09:00",
+      "roadmap_keyword_selection_summary": null,
+      "roadmap_subject_selection_done": "2023-10-04T15:07:44.968946+09:00",
+      "roadmap_subject_selection_summary": null,
+      "roadmap_book_selection_done": "2023-10-04T15:07:59.783872+09:00",
+      "roadmap_book_selection_summary": null,
+      "roadmap_advanced_researches_done": null,
+      "roadmap_subject_activities_done": null,
+      "roadmap_career_activities_done": null,
+      "roadmap_club_activities_done": null,
+      "roadmap_autonomous_activities_done": null,
+      "roadmap_volunteering_activities_done": null,
+      "roadmap_topic_researches_done": "2023-10-04T15:10:41.317467+09:00",
+      "roadmap_academic_ref_bookmarks_done": "2023-10-04T15:09:35.954519+09:00",
+      "roadmap_done": null,
+      "student_name": "제임스",
+      "student": {
+        "id": 18,
+        "name": "제임스",
+        "type": "TEACHER",
+        "institute_id": 9,
+        "institute": {
+          "id": 9,
+          "created": "2023-01-12T18:28:42.857038+09:00",
+          "updated": "2023-01-12T18:28:42.857038+09:00",
+          "name": "멤버스 트레이닝 센터",
+          "type": "TRAINING_CENTER",
+          "code": null,
+          "school_id": null,
+          "expire_at": "9999-12-31T09:00:00+09:00",
+          "area": "서울특별시 마포구",
+          "allow_new_user_begin": null,
+          "allow_new_user_end": "9999-12-31T09:00:00+09:00",
+          "tenant_id": 1,
+          "user_count": null,
+          "student_count": null
+        },
+        "school_name": "멤버스 트레이닝 센터",
+        "school_grade": null,
+        "school_class": null,
+        "school_class_num": null,
+        "is_active": true,
+        "gpa": null,
+        "subject_grade_done": null,
+        "archive_activities_done": null,
+        "archive_student_book_remarks_done": null,
+        "archive_book_readings_done": null,
+        "archive_opinions_done": null,
+        "archive_performance_evaluations_done": null,
+        "created": "2022-11-10T18:18:22.747226+09:00",
+        "updated": "2023-10-30T15:25:46.560902+09:00",
+        "expire_at": null,
+        "email": "junwon.lee@majormap.net",
+        "has_console_permission": false,
+        "last_login": "2023-10-30T15:25:46.560902+09:00",
+        "deleted": null,
+        "will_delete": null
+      }
+    },
+    "book": {
+      "id": 6141,
+      "title": "의사, 인간을 어루만지다 : 예일대 의대 교수가 말하는 진정한 치유자의 세계",
+      "cover": "https://storage.googleapis.com/waymaker-f8412.appspot.com/book_covers/6141.jpg",
+      "isbn": "9788984073432",
+      "pub_date": "2010-12-15T09:00:00+09:00",
+      "remote_id": "KMO201061305",
+      "author": "셔윈 B. 눌랜드 지음 ;조현욱 옮김",
+      "categories": [
+        "기술과학"
+      ],
+      "description": "예일대학교 의과대학 교수 셔윈 B. 눌랜드의 『의사, 인간을 어루만지다』. 질병보다 인간을 먼저 이해하는 우리 시대의 의사가 만들어낸 감동적 휴머니즘의 세계 속으로 초대한다. 평생 의사로 헌신하며 살아온 저자의 열정적 삶에서 벌어진 흥미롭고 감동적 일화를 담고 있다. 불완전한 과학과 비논리적 직감이 공존하는 의학 속에서 진정한 치유를 위해 의사가 갖추어야 할 모습에 대한 고민을 불러일으킬 것이다. 현대 의학이 나아갈 방향에 대해서도 고찰한다. 1998년부터 2004년까지 잡지 '아메리칸 스콜라'에 실었던 에세이를 엮은 것이다.",
+      "extras": {
+        "top_keywords": [
+          {
+            "word": "먼저",
+            "score": 0.4905239669884497
+          },
+          {
+            "word": "아메리칸",
+            "score": 0.4394661949922865
+          },
+          {
+            "word": "스콜라",
+            "score": 0.4179731300197798
+          },
+          {
+            "word": "위해",
+            "score": 0.33294771621744507
+          },
+          {
+            "word": "대한",
+            "score": 0.2890137459106748
+          },
+          {
+            "word": "잡지",
+            "score": 0.2476005361315695
+          },
+          {
+            "word": "평생",
+            "score": 0.24549824625348393
+          },
+          {
+            "word": "의학",
+            "score": 0.17883900454004578
+          },
+          {
+            "word": "의사",
+            "score": 0.1464828593667103
+          },
+          {
+            "word": "교수",
+            "score": 0.10545105906144199
+          },
+          {
+            "word": "우리",
+            "score": 0.10504798377014792
+          }
+        ],
+        "external_link": "https://search.shopping.naver.com/book/catalog/32506903704"
+      },
+      "publisher": "세종서적"
+    }
+  }
